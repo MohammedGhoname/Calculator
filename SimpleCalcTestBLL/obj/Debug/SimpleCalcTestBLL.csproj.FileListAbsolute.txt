@@ -1,0 +1,12 @@
+C:\Users\BslsM\OneDrive\المستندات\Visual Studio 2017\Projects\SimpleCalcTestBLL\SimpleCalcTestBLL\bin\Debug\SimpleCalcTestBLL.dll
+C:\Users\BslsM\OneDrive\المستندات\Visual Studio 2017\Projects\SimpleCalcTestBLL\SimpleCalcTestBLL\bin\Debug\SimpleCalcTestBLL.pdb
+C:\Users\BslsM\OneDrive\المستندات\Visual Studio 2017\Projects\SimpleCalcTestBLL\SimpleCalcTestBLL\obj\Debug\SimpleCalcTestBLL.csprojAssemblyReference.cache
+C:\Users\BslsM\OneDrive\المستندات\Visual Studio 2017\Projects\SimpleCalcTestBLL\SimpleCalcTestBLL\obj\Debug\SimpleCalcTestBLL.csproj.CoreCompileInputs.cache
+C:\Users\BslsM\OneDrive\المستندات\Visual Studio 2017\Projects\SimpleCalcTestBLL\SimpleCalcTestBLL\obj\Debug\SimpleCalcTestBLL.dll
+C:\Users\BslsM\OneDrive\المستندات\Visual Studio 2017\Projects\SimpleCalcTestBLL\SimpleCalcTestBLL\obj\Debug\SimpleCalcTestBLL.pdb
+C:\Users\BslsM\Source\Repos\AzureTest\SimpleCalcTestBLL\bin\Debug\SimpleCalcTestBLL.dll
+C:\Users\BslsM\Source\Repos\AzureTest\SimpleCalcTestBLL\bin\Debug\SimpleCalcTestBLL.pdb
+C:\Users\BslsM\Source\Repos\AzureTest\SimpleCalcTestBLL\obj\Debug\SimpleCalcTestBLL.csprojAssemblyReference.cache
+C:\Users\BslsM\Source\Repos\AzureTest\SimpleCalcTestBLL\obj\Debug\SimpleCalcTestBLL.csproj.CoreCompileInputs.cache
+C:\Users\BslsM\Source\Repos\AzureTest\SimpleCalcTestBLL\obj\Debug\SimpleCalcTestBLL.dll
+C:\Users\BslsM\Source\Repos\AzureTest\SimpleCalcTestBLL\obj\Debug\SimpleCalcTestBLL.pdb
