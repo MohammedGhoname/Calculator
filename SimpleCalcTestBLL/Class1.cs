@@ -10,7 +10,7 @@ namespace SimpleCalcTest
     {
         public int sum(int x, int y)
         {
-            return x + y +1 -1; 
+            return x + y +1;
         } 
     }
 }
