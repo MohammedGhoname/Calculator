@@ -30,3 +30,19 @@ C:\Users\BslsM\Source\Repos\AzureTest\Calculator Unittest\obj\Debug\Calculator U
 C:\Users\BslsM\Source\Repos\AzureTest\Calculator Unittest\obj\Debug\Calculator Unittest.csproj.CopyComplete
 C:\Users\BslsM\Source\Repos\AzureTest\Calculator Unittest\obj\Debug\Calculator Unittest.dll
 C:\Users\BslsM\Source\Repos\AzureTest\Calculator Unittest\obj\Debug\Calculator Unittest.pdb
+C:\Users\BslsM\Source\Repos\calculator\Calculator Unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BslsM\Source\Repos\calculator\Calculator Unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BslsM\Source\Repos\calculator\Calculator Unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BslsM\Source\Repos\calculator\Calculator Unittest\bin\Debug\Calculator Unittest.dll
+C:\Users\BslsM\Source\Repos\calculator\Calculator Unittest\bin\Debug\Calculator Unittest.pdb
+C:\Users\BslsM\Source\Repos\calculator\Calculator Unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\BslsM\Source\Repos\calculator\Calculator Unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\BslsM\Source\Repos\calculator\Calculator Unittest\bin\Debug\SimpleCalcTestBLL.dll
+C:\Users\BslsM\Source\Repos\calculator\Calculator Unittest\bin\Debug\SimpleCalcTestBLL.pdb
+C:\Users\BslsM\Source\Repos\calculator\Calculator Unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\BslsM\Source\Repos\calculator\Calculator Unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\BslsM\Source\Repos\calculator\Calculator Unittest\obj\Debug\Calculator Unittest.csprojAssemblyReference.cache
+C:\Users\BslsM\Source\Repos\calculator\Calculator Unittest\obj\Debug\Calculator Unittest.csproj.CoreCompileInputs.cache
+C:\Users\BslsM\Source\Repos\calculator\Calculator Unittest\obj\Debug\Calculator Unittest.csproj.CopyComplete
+C:\Users\BslsM\Source\Repos\calculator\Calculator Unittest\obj\Debug\Calculator Unittest.dll
+C:\Users\BslsM\Source\Repos\calculator\Calculator Unittest\obj\Debug\Calculator Unittest.pdb
